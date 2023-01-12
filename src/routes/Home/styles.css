@@ -1,0 +1,18 @@
+#dsc-home-images-section {
+    padding: 0 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.dsc-home-title {
+    color: var(--dcr-color-font-secondary);
+    font-weight: 700;
+    font-size: 20px;
+    margin: 25px 0;
+}
+
+.dsc-home-cards {
+    display: grid;
+    grid-gap: 25px;
+    
+}
