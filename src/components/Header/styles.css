@@ -1,0 +1,13 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 70px;
+    background-color: var(--dcr-color-bg-primary);
+}
+
+header h1 {
+    color: var(--dcr-color-font-primary);
+    font-size: 20px;
+    font-weight: 700;
+}
