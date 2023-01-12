@@ -2,11 +2,14 @@
 
 :root {
   --dcr-color-bg-primary: #3C9AF0;
+  --dcr-color-bg-secondary: #C8C8C8;
+  --dcr-color-bg-terciary: #FFFFFF;
 
   --dcr-color-font-primary: #FFFFFF;
   --dcr-color-font-secondary: #5E5E5E;
+  --dcr-color-font-terciary: #3C9AF0;
 
-  --dsr-color-border-primary: #3C9AF0;
+  --dcr-color-border-primary: #3C9AF0;
 }
 
 * {

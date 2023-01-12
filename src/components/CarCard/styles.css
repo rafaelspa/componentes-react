@@ -1,5 +1,5 @@
 .dsc-home-card {
-    border: 1px solid var(--dsr-color-border-primary);
+    border: 1px solid var(--dcr-color-border-primary);
     display: flex;
     flex-direction: column;
     border-radius: 10px;
